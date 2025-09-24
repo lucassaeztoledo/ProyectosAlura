@@ -6,8 +6,7 @@ La aplicación funciona utilizando código JavaScript. Cuando un usuario escribe
 
 Una vez que se agregan los nombres de los amigos, se procede a presionar el botón "Sortear". Aquí, el programa calcula cuántas personas hay en la lista y genera un número aleatorio para usarlo como índice. Con ese número, selecciona al afortunado ganador de la lista y crea un nuevo elemento en la página para anunciar "Tu amigo secreto es...", mostrando el nombre sorteado.
 
-Funciones clave del código
-El script se organiza en las siguientes funciones clave:
+Funciones clave del código_
 
 agregarAmigo(): Se encarga de validar que el campo no esté vacío, tomar el nombre del input y añadirlo a la lista de amigos.
 
@@ -22,4 +21,6 @@ Instrucciones de uso
 
 3. Cuando todos estén en la lista, haz clic en el botón "Sortear".
 
-4. Y listo, ¡la aplicación te dirá quién te ha tocado! 
+4. Y listo, ¡la aplicación dirá quién te ha tocado!
+
+EL SIGUIENTE ENLACE TIENE UN VIDEO EXPLICATIVO DE LO REALIZADO! https://drive.google.com/file/d/1M5cdxEwCqUfZPy3IpgGFsm036CT3T_jC/view?usp=sharing
